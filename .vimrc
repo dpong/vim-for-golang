@@ -29,13 +29,13 @@ Plug 'honza/vim-snippets'
 Plug 'vim-scripts/SuperTab'
 Plug 'Shougo/neocomplete.vim'
 Plug 'KeitaNakamura/neodark.vim'
-Plug 'crusoexia/vim-monokai'
 Plug 'acarapetis/vim-colors-github'
 Plug 'rakr/vim-one'
 Plug 'fatih/vim-go', { 'tag': '*' }
 Plug 'dgryski/vim-godef'
 Plug 'iamcco/mathjax-support-for-mkdp'
 Plug 'iamcco/markdown-preview.vim'
+Plug 'jonathanfilip/vim-lucius'
 
 call plug#end()
 
